@@ -1,0 +1,14 @@
+{
+  "name": "yeoman-test-trip",
+  "version": "0.1.0",
+  "dependencies": {
+      "bourbon": "~4.2.5",
+      "neat": "~1.7.2",
+      "bitters": "~1.1.0",
+      "refills": "~0.1.0",
+      "angular-latest": "~1.4.7",
+      "angular-emoji-filter-hd": "~0.0.6",
+      "FitText.js": "~1.2.0"
+  }
+}
+
