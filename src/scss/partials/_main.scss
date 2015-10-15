@@ -1,4 +1,28 @@
 
-body {
+html {
+    font-size: $base-font-size;
+}
 
+p {
+    font-size: 1.0em;
+}
+
+// define neat container class
+.wrap { @include outer-container; }
+
+// define neat columns classes
+.col-12 { @include span-columns(12); }
+
+header {
+    font-size: 2.50rem;
+
+    .wrap .col-12 {
+        text-align: center;
+
+        h1 {
+            font-size: 1.0em;
+            padding-top: 30px;
+            padding-bottom: 40px;
+        }
+    }
 }

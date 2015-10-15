@@ -6,7 +6,8 @@
       "neat": "~1.7.2",
       "bitters": "~1.1.0",
       "refills": "~0.1.0",
-      "angular-latest": "~1.4.7",
+      "angular": "~1.4.0",
+      "angular-sanitize": "~1.4.0",
       "angular-emoji-filter-hd": "~0.0.6",
       "FitText.js": "~1.2.0"
   }

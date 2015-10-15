@@ -3,7 +3,10 @@
 =            BOWER STYLES            =
 ======================================*/
 
-
+@import "../../bower_components/bourbon/app/assets/stylesheets/bourbon",
+        "../../bower_components/neat/app/assets/stylesheets/neat",
+        "../../bower_components/bitters/app/assets/stylesheets/base",
+        "../../bower_components/angular-emoji-filter-hd/dist/emoji";
 
 /*-----  End of BOWER STYLES  ------*/
 
